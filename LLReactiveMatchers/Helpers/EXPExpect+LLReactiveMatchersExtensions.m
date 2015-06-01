@@ -11,7 +11,7 @@
 #import "Expecta.h"
 
 #import <libkern/OSAtomic.h>
-#import <objc/objc-runtime.h>
+#import <objc/runtime.h>
 
 @implementation EXPExpect (LLReactiveMatchersExtensions)
 
